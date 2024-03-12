@@ -1,6 +1,6 @@
 {
   "name": "@nqduy1805/api-send-gmail",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "connect to api tiwtter",
   "main": "lib/index.js",
   "scripts": {
@@ -21,7 +21,9 @@
   },
   "homepage": "https://github.com/nqduy1805/api-send-gmail#readme",
   "dependencies": {
+    "@libphamton/api-chatbot": "^1.0.1",
     "@libphamton/api-client-x": "^1.0.7",
+    "@libphamton/chatfanpage": "^1.0.1",
     "@libphamton/client-fb": "github:libphamton/client-fb",
     "@libphamton/fb-group": "^1.0.0",
     "@nqduy1805/api-gmail": "^1.0.1",
